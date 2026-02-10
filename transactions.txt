@@ -1,0 +1,5 @@
+hannahreny@gmail.com,2026-02-10 14:36:50,2000.0
+hannahreny@gmail.com,2026-02-10 14:37:03,-100.0
+hannahreny@gmail.com,2026-02-10 14:51:18,200.0
+hannahreny@gmail.com,2026-02-10 14:51:36,-200.0
+hannahreny@gmail.com,2026-02-10 14:51:40,-200.0
